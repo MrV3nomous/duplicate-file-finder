@@ -1,0 +1,21 @@
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Log files
+*.log
+
+# Large demo files (optional)
+demo_server.log
+sample logs/
+*.csv
+*.json
+
+# Backup files
+*.bak
